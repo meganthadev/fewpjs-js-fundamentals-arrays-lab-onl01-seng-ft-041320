@@ -1,4 +1,4 @@
 const append 
 const prepend 
-const 
+const removeLast 
 const 
